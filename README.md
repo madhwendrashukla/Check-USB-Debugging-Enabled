@@ -22,7 +22,7 @@ This project is an Android application developed using Kotlin. It includes funct
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    https://github.com/madhwendrashukla/Check-USB-Debugging-Enabled/
     ```
 
 2. Open the project in Android Studio.
